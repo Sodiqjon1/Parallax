@@ -1,3 +1,5 @@
 # Parallax
-Yotube :   https://youtu.be/1nDPb5bmdFM
-Bu saytda rasimlar yordamida paralax efekt ishlatilgan 
+
+## In this site has parallax effect.
+
+Yotube :   <https://youtu.be/1nDPb5bmdFM> 
